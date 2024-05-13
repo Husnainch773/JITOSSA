@@ -10,12 +10,12 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 //يمكنك إضافة رقمك للتحكم في البوت أو إن طلب شخص رقمك من البوت
 global.owner = [
-  ['212670941551', 'Omar', true],
+  ['971567660403', 'Omar', true],
   
 ];
 
-global.suittag = ['212670941551'];
-global.prems = ['212670941551'];
+global.suittag = ['971567660403'];
+global.prems = ['971567660403'];
 
 global.packname = 'JITOSSA';
 global.author = '';
