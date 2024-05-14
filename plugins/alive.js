@@ -4,7 +4,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 
     // Sound
     let name = m.pushName || conn.getName(m.sender)
-    var vn = "./src/ALIVE.mp3"
+    var vn = "https://cdn.jsdelivr.net/gh/Itxmanno05/GURU-BOT@main/Assets/mp3/sajjad.m4a"
     let url = "https://github.com/omarcharaf1"
     let murl = "www.instagram.com/husnainch773"
     let img = "https://telegra.ph/file/b2e5b270663e1dc0e2f57.jpg"
@@ -21,7 +21,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "البوت يعمل الأن",
+          title: "🤍حٓــــᷩــᷧــᷱــᷧــᷡــنین چٓوہـᷧــᷙــᷧــᷦــدری🤍",
           body: "ᴹᴿ°᭄HUSNAIN❖࿐",
           thumbnailUrl: img,
           sourceUrl: 'https://tinyurl.com/ymfagplc',
