@@ -10,7 +10,7 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 //يمكنك إضافة رقمك للتحكم في البوت أو إن طلب شخص رقمك من البوت
 global.owner = [
-  ['971567660403', 'Omar', true],
+  ['971567660403', 'Husnain ', true],
   
 ];
 
@@ -19,7 +19,7 @@ global.prems = ['971567660403'];
 
 global.packname = 'Mahar Husnain';
 global.author = '';
-global.wm = 'OMAR';
+global.wm = '`💫[••𝗧𝗢𝗣 𝗟𝗘𝗚𝗘𝗡𝗗••]💫`';
 global.titulowm = 'Mahar Husny';
 global.titulowm2 = `Mahar Husnain`
 global.igfg = 'Mahar Husnain';
@@ -48,11 +48,11 @@ global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nJITOSSA`;
-global.gt = 'JITOSSA';
-global.mysticbot = 'JITOSSA';
+global.gt = '`💫[••𝗧𝗢𝗣 𝗟𝗘𝗚𝗘𝗡𝗗••]💫`';
+global.mysticbot = '`💫[••𝗧𝗢𝗣 𝗟𝗘𝗚𝗘𝗡𝗗••]💫`';
 global.md = 'https://instagram.com/husnainch773';
 global.mysticbot = 'https://instagram.com/husnainch773';
-global.nomorown = '212670941551';
+global.nomorown = '971567660403';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
